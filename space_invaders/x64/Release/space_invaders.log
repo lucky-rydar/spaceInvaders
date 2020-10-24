@@ -1,0 +1,8 @@
+﻿  BulletController.cpp
+D:\my_projects\KPI\space_invaders\space_invaders\BulletController.cpp(61,32): warning C4101: 'ex': unreferenced local variable
+  Generating code
+  1 of 556 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  space_invaders.vcxproj -> D:\my_projects\KPI\space_invaders\x64\Release\space_invaders.exe
